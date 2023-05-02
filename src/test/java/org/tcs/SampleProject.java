@@ -18,5 +18,17 @@ private void method4() {
 	System.out.println("4");
 
 }
+private void tamilNadu() {
+	System.out.println("Tamil");
+
+}
+private void kerala() {
+	System.out.println("Malayalam");
+
+}
+private void Delhi() {
+	System.out.println("Hindi");
+
+}
 
 }
